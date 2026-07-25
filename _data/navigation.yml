@@ -1,0 +1,38 @@
+# main links links
+main:
+#  - title: "Publications"
+#    url: /publications/
+
+#  - title: "Talks"
+#    url: /talks/
+#
+
+  - title: "Experience"
+    url: /experience/
+
+  - title: "Publications"
+    url: /publications/
+
+#  - title: "Portfolio"
+#    url: /portfolio/
+
+#  - title: "Blog Posts"
+#    url: /year-archive/
+
+  - title: "Projects"
+    url: /projects/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Talks"
+    url: /talks/
+
+  - title: "CV"
+    url: https://www.thapajeevan.com.np/files/CV.pdf
+
+  - title: "Contact"
+    url: /#contact
+
+#  - title: "Guide"
+#    url: /markdown/

@@ -1,0 +1,26 @@
+---
+layout: archive
+title: "Talks and presentations"
+excerpt: "Invited lectures, conference presentations, and technical talks by Jeevan Thapa."
+last_modified_at: 2026-07-24
+permalink: /talks/
+author_profile: true
+classes:
+  - talks-page
+---
+
+{% include base_path %}
+
+<p class="page-intro">Invited lectures, conference presentations, and technical talks on continual learning, deep learning, and generative models.</p>
+
+{% if site.talkmap_link == true %}
+
+<p><a href="/talkmap.html">View talks on a map</a></p>
+
+{% endif %}
+
+<div class="talk-list">
+{% for post in site.talks reversed %}
+  {% include talk-card.html %}
+{% endfor %}
+</div>
