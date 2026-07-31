@@ -16,6 +16,7 @@ redirect_from:
     <p class="eyebrow">Machine Learning Researcher · RIT</p>
     <h1 id="home-title">Building AI systems that keep learning.</h1>
     <p class="home-hero__lead">I’m a Computer Science Ph.D. candidate studying continual learning, parameter-efficient adaptation, and continual user modeling. My work asks a practical question: how can models evolve with new data without forgetting what they already know?</p>
+    <p class="availability-badge"><span class="availability-dot" aria-hidden="true"></span>Open to Research Scientist, Applied Scientist &amp; ML internships (Summer 2027) and full-time roles (Fall 2027)</p>
     <div class="home-hero__actions">
       <a href="/publications/" class="btn btn--primary">Explore my research <span aria-hidden="true">→</span></a>
       <a href="/files/CV.pdf" class="btn btn--secondary">View CV</a>
@@ -130,7 +131,7 @@ redirect_from:
   <div>
     <p class="eyebrow">Let’s connect</p>
     <h2 id="contact-title">Interested in adaptive machine learning?</h2>
-    <p>I’m seeking Research Scientist, Applied Scientist, and Machine Learning internships or roles for Summer and Fall 2027.</p>
+    <p>I’m open to Research Scientist, Applied Scientist, and Machine Learning internships (Summer 2027) and full-time roles (Fall 2027).</p>
   </div>
   <a href="mailto:jt4812@g.rit.edu" class="btn btn--light">Email me <span aria-hidden="true">↗</span></a>
 </section>

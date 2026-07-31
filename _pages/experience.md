@@ -74,7 +74,9 @@ classes:
     </header>
     <p class="experience-card__location">Remote</p>
     <ul>
-      <li>Developed a mixture-of-rank-1-experts architecture for continual user modeling, enabling parameter-efficient adaptation to sequential recommendation data; published at ECIR 2026.</li>
+      <li>Developed a mixture-of-experts (MoE) architecture with rank-1, LoRA-style experts for continual user modeling, enabling parameter-efficient adaptation across sequential recommendation and user-attribute prediction tasks; published at ECIR 2026.</li>
+      <li>Designed a semantic expert-selection strategy that routes each task to relevant prior experts, reducing cross-task interference while reusing transferable knowledge.</li>
+      <li>Outperformed the strongest baselines by 2.88% relative HitRate@5 (recommendation) and 1.37% accuracy (attribute prediction).</li>
     </ul>
   </article>
 

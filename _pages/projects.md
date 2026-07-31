@@ -25,7 +25,7 @@ redirect_from:
       <span>Continual user modeling</span>
     </div>
     <h3>Evolving Mixture of Low-Rank Experts for Continual User Modeling</h3>
-    <p>Developed a mixture-of-rank-1-experts architecture for continual user modeling, enabling parameter-efficient adaptation to sequential recommendation data.</p>
+    <p>Developed a mixture-of-experts architecture with rank-1, LoRA-style experts and a semantic expert-selection strategy for continual user modeling, outperforming the strongest baselines by 2.88% relative HitRate@5 on sequential recommendation and 1.37% accuracy on user-attribute prediction.</p>
     <ul class="project-card__tags" aria-label="Project keywords">
       <li>Recommender systems</li>
       <li>Mixture of experts</li>
