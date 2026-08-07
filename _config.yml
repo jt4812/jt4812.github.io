@@ -11,9 +11,9 @@ title                    : "Jeevan Thapa"
 title_separator          : "-"
 name                     : &name "Jeevan Thapa"
 description              : &description "Machine learning researcher working on continual learning, parameter-efficient adaptation, and continual user modeling."
-url                      : https://www.thapajeevan.com.np # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jt4812.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "thapa-jeevan/thapa-jeevan.github.io"
+repository               : "jt4812/jt4812.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160

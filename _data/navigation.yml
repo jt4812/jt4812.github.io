@@ -29,7 +29,7 @@ main:
     url: /talks/
 
   - title: "CV"
-    url: https://www.thapajeevan.com.np/files/CV.pdf
+    url: /files/CV.pdf
 
   - title: "Contact"
     url: /#contact
