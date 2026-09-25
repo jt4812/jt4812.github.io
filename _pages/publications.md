@@ -7,7 +7,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<p class="page-intro">My research develops adaptive machine learning methods for models, representations, and user behavior that change over time. Citation metrics and the complete record are available on <a href="{{ site.author.googlescholar }}">Google Scholar</a>.</p>
+<p class="page-intro">My research develops adaptive machine learning methods for models, representations, and user behavior that change over time. Full list available on <a href="{{ site.author.googlescholar }}">Google Scholar</a>.</p>
 
 <article class="publication-card" id="thapa2024bayesian" itemscope itemtype="https://schema.org/ScholarlyArticle">
   <meta itemprop="datePublished" content="2024">
