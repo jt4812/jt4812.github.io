@@ -282,10 +282,10 @@ summary:focus {
     max-width: 740px;
     margin: 0 0 1.5rem;
     color: $portfolio-ink;
-    font-size: clamp(3rem, 6.4vw, 5.75rem);
+    font-size: clamp(2.4rem, 4.6vw, 4rem);
     font-weight: 760;
-    line-height: 0.98;
-    letter-spacing: -0.067em;
+    line-height: 1.04;
+    letter-spacing: -0.05em;
   }
 }
 
@@ -615,30 +615,34 @@ summary:focus {
 
 .contact-band {
   display: flex;
+  gap: 2rem;
   margin: 4rem 0 1rem;
-  padding: 3.3rem;
-  color: #fff;
-  background: $portfolio-accent;
+  padding: 2rem 2.2rem;
+  background: $portfolio-surface;
+  border: 1px solid $portfolio-border;
   border-radius: 8px;
   justify-content: space-between;
   align-items: center;
 
   h2 {
-    margin: 0 0 0.5rem;
-    color: #fff;
-    font-size: 2rem;
-    letter-spacing: -0.035em;
+    margin: 0 0 0.4rem;
+    color: $portfolio-ink;
+    font-size: 1.35rem;
+    letter-spacing: -0.02em;
   }
 
   p {
     margin: 0 !important;
-    color: #d9f0f2;
-    font-size: 0.95rem !important;
+    color: $portfolio-muted;
+    font-size: 0.92rem !important;
   }
 
   .eyebrow {
-    margin-bottom: 0.65rem !important;
-    color: #e3f5f4; // WCAG AA vs accent bg (4.96:1); #a8e0e5 was 3.85:1
+    margin-bottom: 0.5rem !important;
+  }
+
+  .btn {
+    flex-shrink: 0;
   }
 }
 
@@ -1181,7 +1185,7 @@ summary:focus {
   }
 
   .home-hero__content h1 {
-    font-size: clamp(3rem, 8vw, 4.6rem);
+    font-size: clamp(2.4rem, 6vw, 3.4rem);
   }
 
   .focus-card {
@@ -1238,8 +1242,8 @@ summary:focus {
   }
 
   .contact-band {
-    gap: 2rem;
-    padding: 2.2rem;
+    gap: 1.25rem;
+    padding: 1.6rem;
     flex-direction: column;
     align-items: flex-start;
   }
@@ -1256,7 +1260,7 @@ summary:focus {
 
 @media (max-width: 520px) {
   .home-hero__content h1 {
-    font-size: 3rem;
+    font-size: 2.2rem;
   }
 
   .home-hero__portrait {

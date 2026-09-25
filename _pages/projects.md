@@ -75,15 +75,15 @@ redirect_from:
       <p class="project-card__organization">RIT</p>
       <span>Bioinformatics ML</span>
     </div>
-    <h3>Bayesian Adaptive Graph Neural Network for Gene-Disease Association</h3>
-    <p>Developing a Bayesian adaptive graph neural network for gene-disease association prediction over protein-protein interaction graphs.</p>
+    <h3>Probabilistic Graph Propagation with Module Diversity Regularization for Disease Module Discovery</h3>
+    <p>Developed a probabilistic graph-propagation framework with module diversity regularization that integrates bioinformatics data for gene-disease association prediction.</p>
     <ul class="project-card__tags" aria-label="Project keywords">
       <li>Gene-disease association</li>
-      <li>Graph learning</li>
-      <li>Bayesian ML</li>
+      <li>Graph propagation</li>
+      <li>Probabilistic ML</li>
     </ul>
     <div class="project-card__footer">
-      <span>Currently conducting benchmark evaluation</span>
+      <span>Manuscript under review</span>
     </div>
   </article>
 
