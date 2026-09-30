@@ -76,7 +76,7 @@ redirect_from:
       <span>Bioinformatics ML</span>
     </div>
     <h3>Probabilistic Graph Propagation with Module Diversity Regularization for Disease Module Discovery</h3>
-    <p>Developed a probabilistic graph-propagation framework with module diversity regularization that integrates bioinformatics data for gene-disease association prediction.</p>
+    <p>Developing a probabilistic graph-propagation framework with module diversity regularization that integrates bioinformatics data for gene-disease association prediction.</p>
     <ul class="project-card__tags" aria-label="Project keywords">
       <li>Gene-disease association</li>
       <li>Graph propagation</li>

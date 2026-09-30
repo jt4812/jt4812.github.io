@@ -68,7 +68,7 @@ author_profile: true
   <p><strong>Jeevan Thapa</strong> and Rui Li · Manuscript under review</p>
 </div>
 
-<div class="notice--project">
+<!-- <div class="notice--project">
   <h3>Probabilistic Graph Propagation with Module Diversity Regularization for Disease Module Discovery</h3>
   <p><strong>Jeevan Thapa</strong>, M. Thapa, and Rui Li · Manuscript under review</p>
-</div>
+</div> -->
